@@ -1,0 +1,33 @@
+
+
+.navbar{
+    background-color:wheat;
+}
+
+.navbar-nav .nav-item{
+          background-color: bisque;
+          border-radius: 20%;
+          margin-left: 10px;
+}
+.img-fluid{
+    
+    /* left: 600px;
+    top: 10px;
+    z-index: -1; */
+    height: 50vh;
+    border-radius: 10px;
+    border: solid black;
+}
+.bi.bi-linkedin{
+    display: inline;
+    /* align-items:flex-start; */
+    margin-right: 3px;
+    padding-bottom: 5px;
+    
+}
+.bi.bi-github{
+    display: inline;
+    align-items:flex-start;
+    margin-right: 3px;
+    padding-bottom: 3px; 
+}
